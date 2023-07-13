@@ -1,0 +1,19 @@
+{
+  "name": "junaidiar/belajar-php-composer-library",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Junaidiar\\BelajarPhpComposerLibrary\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Junaidi Abdul Rahman",
+      "email": "junaidiar.fcb@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload-dev": {}
+}
